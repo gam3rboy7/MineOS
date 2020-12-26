@@ -22,7 +22,7 @@ Here's a list of a few features:
 
 The easiest way is to use default **pastebin** script. Insert an OpenOS floppy disk to computer, insert an Internet Card, turn computer on and type the following to console to write the operating system to the installed hard drive:
 
-	pastebin run 0nM5b1jU
+	pastebin run MDPH0ZmT
 
 You can paste it to console using middle mouse button or insert key (by default). If for some reason the pastebin method isn't available to you (for example, it's blacklisted on game server or blocked by Internet provider), use alternative command to download the installer directly from the github page:
 
