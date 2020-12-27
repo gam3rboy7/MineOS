@@ -21,10 +21,3 @@ The easiest way is to use default **pastebin** script. Insert an OpenOS floppy d
 
 	pastebin run MDPH0ZmT
 
-After a moment, a nice system installer will be shown. You will be prompted to select your preferred language, select and format a boot volume, create a user profile and customize some settings. After that, the system will be successfully installed. More powerful setups will be able to install it faster so it is reccomended to use 
-
-## How to \*do_something\*?
-
-[Wiki-wiki-wiki. Wi...
-...
-...ki.](https://github.com/IgorTimofeev/MineOS/wiki)
