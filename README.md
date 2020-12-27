@@ -21,10 +21,6 @@ The easiest way is to use default **pastebin** script. Insert an OpenOS floppy d
 
 	pastebin run MDPH0ZmT
 
-You can paste it to console using middle mouse button or insert key (by default). If for some reason the pastebin method isn't available to you (for example, it's blacklisted on game server or blocked by Internet provider), use alternative command to download the installer directly from the github page:
-
-	wget -f https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/Installer/BIOS.lua /tmp/bios.lua && flash -q /tmp/bios.lua && reboot
-
 After a moment, a nice system installer will be shown. You will be prompted to select your preferred language, select and format a boot volume, create a user profile and customize some settings. After that, the system will be successfully installed. More powerful setups will be able to install it faster so it is reccomended to use 
 
 ## How to \*do_something\*?
