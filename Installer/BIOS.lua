@@ -1,4 +1,4 @@
-local handle, data, chunk = component.proxy(component.list("internet")()).request("https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/Installer/Main.lua"), ""
+local handle, data, chunk = component.proxy(component.list("internet")()).request("https://raw.githubusercontent.com/gam3rboy7/MineOS/master/Installer/Main.lua"), ""
    
 while true do
 	chunk = handle.read(math.huge)
